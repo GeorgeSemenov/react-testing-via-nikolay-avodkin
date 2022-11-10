@@ -1,0 +1,26 @@
+{
+  "name": "react-testing-via-nikolay-avodkin",
+  "version": "1.0.0",
+  "description": "it's just react app with tests. I saw it at youtube https://www.youtube.com/watch?v=8vfQ6SWBZ-U",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GeorgeSemenov/react-testing-via-nikolay-avodkin.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GeorgeSemenov/react-testing-via-nikolay-avodkin/issues"
+  },
+  "homepage": "https://github.com/GeorgeSemenov/react-testing-via-nikolay-avodkin#readme",
+  "dependencies": {
+    "create-react-app": "^5.0.1"
+  },
+  "devDependencies": {
+    "jest": "^29.0.2"
+  }
+}
